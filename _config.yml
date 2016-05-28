@@ -1,0 +1,28 @@
+name: dryburn
+favicon: null
+layout_spectrum: 0.47048687329515815
+typography_spectrum: 0.7963001234456897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3312733517959714
+  lightness: 0.9867114794906229
+  saturation: 0.46512746368534863
+  rhythmicContrast: 0.3563643719535321
+purpose: []
